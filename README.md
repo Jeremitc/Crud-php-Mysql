@@ -82,4 +82,3 @@ Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para má
 
 ---
 
-Este proyecto es una excelente demostración de habilidades en desarrollo web full stack, mostrando competencia en PHP, MySQL y la creación de aplicaciones CRUD funcionales.
